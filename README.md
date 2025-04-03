@@ -5,7 +5,7 @@ This R script (`transcribe_dna.R`) converts a given DNA sequence into an mRNA se
 
 ## How to Use  
 1. Download the `transcribe_dna.R` file.  
-2. Run it in **RStudio** or any R environment.  
+2. Run the script step by step in **RStudio** or any R environment.  
 
 ## Example  
 ```r
